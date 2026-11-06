@@ -1,4 +1,4 @@
-![Preethi Battu - GitHub Banner](https://github.com/preethi-battu/preethi-battu/raw/main/a_wide_polished_dark_themed_developer_banner_hero.png)
+![Preethi Battu - GitHub Banner](./Neon%20Full%20Stack%20Developer%20Portfolio%20Banner.png)
 # Hi, I'm Preethi Battu 👋
 
 ### Aspiring Full Stack Developer | Java | React | Spring Boot
