@@ -36,4 +36,4 @@ Sreenivasa Institute of Technology and Management Studies | 2024
 
 ## 📫 Connect With Me
 
-- **GitHub:** [My GitHub Profile](https://github.com/your-username)
+- **GitHub:** [My GitHub Profile](https://github.com/preethi-battu)
